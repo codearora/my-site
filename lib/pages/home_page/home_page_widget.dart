@@ -61,7 +61,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
             mainAxisSize: MainAxisSize.max,
             children: [
               Text(
-                'Hello World CICD performed',
+                'Testing\n CICD performed',
                 style: FlutterFlowTheme.of(context).bodyMedium,
               ),
             ],
